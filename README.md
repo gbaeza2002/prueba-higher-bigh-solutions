@@ -55,18 +55,6 @@ Este comando te da los 3 parametros para ingresarlos y probarlos en [Endpoint se
 
 [Documentación](http://localhost:3000/api-docs)
 
-
-# Prueba Técnica Full Stack
-
-Este proyecto es una API desarrollada en Node.js + Express como parte de la prueba técnica para Higher Bit Solutions. Incluye 3 desafíos de los cuales tenia que elegir dos:
-
-✅ Autenticación HMAC (seguridad),
-❌ Paginación de órdenes (manejo de datos),
-✅ Resumen de productos optimizado (performance),
-
-
-
-
 ## Authors
 
 - [@gbaeza2002](hhttps://github.com/gbaeza2002)
